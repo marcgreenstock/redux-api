@@ -1,7 +1,7 @@
 "use strict";
-import reduce from "lodash/collection/reduce";
-import omit from "lodash/object/omit";
-import keys from "lodash/object/keys";
+import reduce from "lodash/reduce";
+import omit from "lodash/omit";
+import keys from "lodash/keys";
 import qs from "qs";
 import { parse } from "url";
 

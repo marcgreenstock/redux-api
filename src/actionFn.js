@@ -1,10 +1,10 @@
 "use strict";
 
 import urlTransform from "./urlTransform";
-import isFunction from "lodash/lang/isFunction";
-import each from "lodash/collection/each";
-import reduce from "lodash/collection/reduce";
-import merge from "lodash/object/merge";
+import isFunction from "lodash/isFunction";
+import each from "lodash/each";
+import reduce from "lodash/reduce";
+import merge from "lodash/merge";
 import fetchResolver from "./fetchResolver";
 import PubSub from "./PubSub";
 import fastApply from "fast-apply";

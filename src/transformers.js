@@ -1,9 +1,9 @@
 "use strict";
-import isArray from "lodash/lang/isArray";
-import isObject from "lodash/lang/isObject";
-import isString from "lodash/lang/isString";
-import isNumber from "lodash/lang/isNumber";
-import isBoolean from "lodash/lang/isBoolean";
+import isArray from "lodash/isArray";
+import isObject from "lodash/isObject";
+import isString from "lodash/isString";
+import isNumber from "lodash/isNumber";
+import isBoolean from "lodash/isBoolean";
 
 /**
  * Default responce transformens

@@ -1,7 +1,7 @@
 "use strict";
 
 import libUrl from "url";
-import reduce from "lodash/collection/reduce";
+import reduce from "lodash/reduce";
 import reducerFn from "./reducerFn";
 import actionFn from "./actionFn";
 import transformers from "./transformers";

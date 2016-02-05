@@ -1,6 +1,6 @@
 "use strict";
 
-import isFunction from "lodash/lang/isFunction";
+import isFunction from "lodash/isFunction";
 
 export default class PubSub {
   constructor() {
